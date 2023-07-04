@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "id": "User1",
+      "name": "UserName",
+      "pass": "pass1",
+      "email": "user1@gmail.com",
+      "mobile": "1",
+      "country": "India",
+      "address": "AP",
+      "gender": "male"
+    },
+    {
+      "id": "User2",
+      "name": "UserName2",
+      "pass": "Pass2",
+      "email": "user2@gmail.com",
+      "mobile": "12435",
+      "country": "Singapore",
+      "address": "Telangana",
+      "gender": "male"
+    },
+    {
+      "id": "user3",
+      "name": "UserName3",
+      "pass": "pass3",
+      "email": "user3@gmail.com",
+      "mobile": "1324",
+      "country": "India",
+      "address": "japan",
+      "gender": "male"
+    },
+    {
+      "id": "Siva",
+      "name": "SivaKrishna",
+      "pass": "siva123",
+      "email": "siva123@gmail.com",
+      "mobile": "82978923789",
+      "country": "USA",
+      "address": "Rajampet",
+      "gender": "male"
+    },
+    {
+      "id": "Mahesh",
+      "name": "DurgaMahesh",
+      "pass": "123",
+      "email": "Mahesh123@gmail.com",
+      "mobile": "798675",
+      "country": "India",
+      "address": "Kadapa",
+      "gender": "male"
+    }
+  ]
+}
